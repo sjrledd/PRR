@@ -1,0 +1,10 @@
+El formato para el archivo de entrada tiene el siguiente formato:
+
+CEDULA NOMBRE_SEPARADO_POR_PISOS EDAD
+
+Cedula debe ser una cadena alfanumérica.
+Nombre es una cadena alfanumérica. Separar con pisos bajos.
+La edad es la edad en años. Numero entero.
+
+Los datos de cada jugador se guardan en una sola linea. Multiples jugadores van
+cada uno en una linea separada.
