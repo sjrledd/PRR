@@ -1,4 +1,4 @@
 Proyecto Ruleta Rusa
 Integrantes:
-Santiago Rodriguez
-Michel Bauza
+Santiago Rodriguez,
+Miguel Bauza
